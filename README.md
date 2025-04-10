@@ -117,5 +117,13 @@ Whatsapp: 55 61 981289528
 ⚠️ DISCLAIMER LEGAL
 [Texto acima]
 
-FIM DA VERSÃO 0.1 – ATUALIZADA EM 07 DE ABRIL DE 2025 e NOVAEMENTE ATUALIZADA EM 08 DE ABRIL DE 2025
+FIM DA VERSÃO 0.1 – ATUALIZADA EM 07 DE ABRIL DE 2025 e NOVAEMENTE ATUALIZADA EM 08 DE ABRIL DE 2025, e novamente atualizado em 10 de abril de 2025
+# Manifesto AstaraX | Dylan Wu | Prior Use Oficial 04/02–08/04/2025
 
+
+## Prova de Timestamp via Blockchain
+Os arquivos abaixo estabelecem a anterioridade do método "Maiêutica Cibernética e Catalisação Simbiótica" de Lissa Sandiego, registrado em 10 de Abril de 2025:
+- [Manifesto AstaraX TIMESTAMP PRIOR USE 10 04 25.pdf](Manifesto AstaraX TIMESTAMP PRIOR USE 10 04 25.pdf): Documento original timestamped.
+- [Manifesto AstaraX TIMESTAMP PRIOR USE 10 04 25.ots](Manifesto AstaraX TIMESTAMP PRIOR USE 10 04 25.ots): Prova de timestamp gerada pelo OpenTimestamps.
+
+Para verificar a autenticidade, use o [OpenTimestamps](https://opentimestamps.org/) com o PDF e o arquivo `.ots`. Esta prova reforça a prioridade global de Lissa Sandiego sobre o método descrito.
